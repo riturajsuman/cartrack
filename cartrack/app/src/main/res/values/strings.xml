@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">cartrack</string>
+    <string name="cartrack">Car Track</string>
+    <string name="signup">sign up</string>
+    <string name="password">Password</string>
+    <string name="password_confirm">Confirm Password</string>
+    <string name="login">Log in</string>
+    <string name="wrongpassword">User name or Password is wrong </string>
+
+
+</resources>
